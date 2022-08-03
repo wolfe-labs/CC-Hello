@@ -6,7 +6,10 @@
     "repo": "wolfe-labs/CC-Hello"
   },
   "bin": {
-    "hello": "src/the-hello-1.lua",
+    "hello": {
+      "path": "src/the-hello-1.lua",
+      "text": "Just a hello world"
+    },
     "hello-2": "src/the-hello-2.lua"
   }
 }
