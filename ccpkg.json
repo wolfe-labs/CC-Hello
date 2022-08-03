@@ -1,0 +1,12 @@
+{
+  "id": "hello",
+  "name": "Hello World",
+  "source": {
+    "type": "github",
+    "repo": "wolfe-labs/CC-Hello"
+  },
+  "bin": {
+    "hello": "src/the-hello-1.lua",
+    "hello-2": "src/the-hello-2.lua"
+  }
+}
