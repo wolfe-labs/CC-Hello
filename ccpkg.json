@@ -3,7 +3,8 @@
   "name": "Hello World",
   "source": {
     "type": "github",
-    "repo": "wolfe-labs/CC-Hello"
+    "repo": "wolfe-labs/CC-Hello",
+    "branch": "main"
   },
   "bin": {
     "hello": {
