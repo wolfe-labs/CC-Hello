@@ -11,6 +11,7 @@
       "path": "src/the-hello-1.lua",
       "text": "Just a hello world"
     },
-    "hello-2": "src/the-hello-2.lua"
+    "hello-2": "src/the-hello-2.lua",
+    "hello-3": "src/the-hello-3.lua"
   }
 }
